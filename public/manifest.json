@@ -1,0 +1,24 @@
+{
+  "name": "Concept Bâtiment 7000",
+  "short_name": "CB7000",
+  "description": "Gestion luxury pour professionnels du bâtiment",
+  "theme_color": "#d4af35",
+  "background_color": "#12110a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=CB&backgroundColor=d4af35&fontFamily=serif&fontSize=45",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=CB&backgroundColor=d4af35&fontFamily=serif&fontSize=45",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
